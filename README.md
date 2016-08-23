@@ -1,8 +1,8 @@
-/*Georgina*/
+/*Hola Mundo*/
 #include<stdio.h>
 
 int main(){
-  printf("\nGeorgina\n");
+  printf("\nHola Mundo\n");
   printf("\nGeorgina\n");
   return 0;
 }
