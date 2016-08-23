@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main(){
-  printf("\nHola Mundo\n");
+  printf("\nNUESTRO PRIMER CÓDIGO\n");
   printf("\nGeorgina\n");
   return 0;
 }
