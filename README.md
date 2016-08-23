@@ -3,6 +3,6 @@
 
 int main(){
   printf("\nGeorgina\n");
-  printf("\nEsta es una nueva linea de código\n");
+  printf("\nGeorgina\n");
   return 0;
 }
